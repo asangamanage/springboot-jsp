@@ -5,6 +5,7 @@ Simple Spring boot web app starter with JSP support.
 ./gradlew bootRun
 
 Type this in your browser,
+
 localhost:8080/hello
 
 Or this
